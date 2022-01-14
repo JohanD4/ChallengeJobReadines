@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name"></string>
+  <string name="favorites" translatable="false">favorites</string>
+  <string name="preferences" translatable="false">preferences</string>
+  <string name="identity_verify">Vendedor con identidad verificada</string>
+  <string name="add_favorites">Agregar a favoritos</string>
+  <string name="delete_favorites">Eliminar de favoritos</string>
+  <string name="share">Compartir</string>
+  <string name="description">Descripción</string>
+  <string name="btn_question">Preguntar</string>
+  <string name="btn_whatsapp">WhatsApp</string>
+  <string name="search_no_item">No se encontraron productos</string>
+</resources>
